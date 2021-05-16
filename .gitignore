@@ -1,0 +1,12 @@
+# parcel-cache
+.parcel-cache/
+
+# dist directory
+dist
+
+# node_modules directory
+node_modules
+
+
+# Some common installation dependency file
+package-lock.json
